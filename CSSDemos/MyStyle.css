@@ -1,0 +1,22 @@
+
+h1{
+    color: brown;
+background-color: cyan;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+/* font-size: 45%; */
+border: darkred outset;
+margin-left: 20%;
+
+}
+body{
+    /* background-image: url("a.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    */
+  
+    background-color: darkolivegreen;
+}
+img{
+    opacity: 0.2;
+}

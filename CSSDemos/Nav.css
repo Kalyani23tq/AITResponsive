@@ -1,0 +1,12 @@
+ul{
+    list-style-type:none;
+}
+li a{
+    display: block;
+    background-color:gray;
+    width: 60px ;
+}
+li a:hover{
+    background-color: indianred;
+    color:lawngreen;
+}
